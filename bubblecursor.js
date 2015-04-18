@@ -2,7 +2,7 @@ var numClicksTotal = 0;
 
 var data = "";
 var numSamples = 6;
-var initBubble = false;
+var initBubble = true;
     
 var trialSetNum = 0;
 var factor = 0.875;
